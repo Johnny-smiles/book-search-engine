@@ -1,9 +1,9 @@
-# Book-search-engine
+# Book Search Engine
 <img align="left" src="https://img.shields.io/badge/License-MIT-green" alt="license">
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/u/70188711?v=4" alt="Github Profile Image">
   
 ## Contributors
-School admins, John Anderson
+School admins, John
     
 ## Table of Contents
 <li><a href="#description">Description</a></li>  
@@ -15,16 +15,16 @@ School admins, John Anderson
 <li><a href="#tests">Tests</a></li> 
   
 <h2 id= "description">Description</h2>
-Given users the ablity to quickly search for, update and delete books from a database.
+Quickly search and store, to a local database, books that a user is interested in.
   
 <h2 id= "installation">Installation</h2>
-Npm install
+npm install
     
 <h2 id= "technology">Technology Stack</h2>
- React.js, GIT, GitHub, MongoDB, HTML, CSS, Heroku
+ Node.Js, Express, JavaScript, React.js, React, GIT, MongoDB, HTML, CSS, APIs, Heroku
   
 <h2 id= "usage">Usage</h2>
-Used to store information of given books on a database.
+Used to quickly search and story book titles for users.
   
 <h2 id= "contact">Contact</h2>
 <li>Name: John Anderson</li> 
